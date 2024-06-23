@@ -1,0 +1,6 @@
+
+
+spring.datasource.url=mongodb://localhost:27017
+spring.data.mongodb.database=status-tracker
+spring.data.jdbc.repositories.enabled=false
+spring.main.allow-bean-definition-overriding=true
